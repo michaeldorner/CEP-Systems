@@ -3,6 +3,7 @@ An overview over Complex Event Processing Systems
 
 | System | First Release | Nachfolger | Papers | Active | Licence |  Comment
 | ------ | ----- | ----------- | ------ | ------ | ----------- | ------
+| Aleri | | None | | ✘ | CS | acquired by Sybase in 2010 | 
 | Alert | 1991 | None | [[SPAM91]](SPAM91.pdf) | ✘ | - | - | 
 | [Aurora](http://cs.brown.edu/research/aurora/) | 2002 | None | [[BBC+04]](BBC+04.pdf), [[CCC+02]](CCC+02.pdf), [[ZDC03]](ZDC03.pdf) | ✘ | [OS](http://cs.brown.edu/research/aurora/aurora_1_2.tar.gz) | developed by Brandeis University, Brown University, and MIT | 
 | [Medusa](http://nsl.cs.usc.edu/Projects/Medusa) | 2003 | None | [[ZDC03]](ZDC03.pdf) | ✘ | [OS](https://github.com/USC-NSL/Medusa) | - | 
@@ -14,7 +15,7 @@ An overview over Complex Event Processing Systems
 | [Cisco Prime](http://www.cisco.com/c/en/us/td/docs/net_mgmt/prime/network/4-1/user/guide/CiscoPrimeNetwork41UserGuide/fault-theory.html) | ? | None |  | ✔ | CS | - | 
 | [Cougar](http://www.cs.cornell.edu/bigreddata/cougar/index.php) | 2001 | None | [[BGS01]](), [[Yao03]]() | ✘ | - | developed by Cornell University | 
 | [Coral8](https://www.crunchbase.com/organization/coral8) | 2001 | None | [[Mor08]]() | ✘ | CS | acuqired by Aleri in 2009 | 
-| D-CAPE | 2005 | RLD | [[SLJR05]]() | ✘ | ✔ | - | 
+| D-CAPE (Distributed Constraint-exploiting Adaptive Processing Engine) | 2005 | RLD | [[SLJR05]]() |  |  | developed by Worcester Polytechnic Institute | 
 | DejaVu | 2011 | None | [[DFT11]]() | ✘ | ✔ | - | 
 | Elastic Operator | 2009 | None | [[SAG+09]]() | ✘ | ✔ | - | 
 | Elastic StreamCloud | 2012 | None | [[GJPPM+12]]() | ✘ | ✔ | - | 
