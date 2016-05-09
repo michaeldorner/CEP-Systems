@@ -20,7 +20,7 @@ An overview over Complex Event Processing Systems
 | Elastic Operator | 2009 | None | [[SAG+09]]() | ✘ | CS | based on SPADE | 
 | Elastic StreamCloud | 2012 | None | [[GJPPM+12]]() | ✘ | | developed by Universidad Politécnica de Madrid | 
 | Elastic System S | 2012 | None | None | ✘ | | | 
-| [Esper](http://www.espertech.com/esper/index.php) | 2012 | None | None | ✔ | ✔ | CS/[OS](http://www.espertech.com/download/) | 
+| [Esper](http://www.espertech.com/esper/index.php) | 2012 | None | None | ✔ | CS/[OS](http://www.espertech.com/download/) |  | 
 | Flexstream | 2009 | None | [HCK+09] | ✘ | ✔ | | 
 | [Fujitsu Big Data CEP Server](http://www.fujitsu.com/global/products/software/middleware/application-infrastructure/interstage/solutions/big-data/bdcep/features/) | 2009 | None | None | ✔ | CS |  | 
 | Gigascope | 2003 | None | [[CJSS03a]](), [[CJSS03b]]()] | ✘ | ✔ | - | 
