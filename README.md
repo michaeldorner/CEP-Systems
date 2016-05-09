@@ -80,16 +80,16 @@ An overview over Complex Event Processing Systems
 | StreamMine3G | 2014 | None | [[MBF14]]() | | | | 
 | StreaMIT | 2002 | None | [[GTK+02]](), [[GTA06]](), [[Gor10]]() | ✘ |  |  | 
 | [Stylus](https://qconsf.com/sf2015/presentation/stylus-facebook-new-stream-processing-platform) | 2015 | None | [[KBF15]]() | ✔ | CS | used at Facebook | 
-| Sybase CEP | ? | ? | None | ✘ | ✔ | based on Coral8 and Aleri | 
-| System S | 2008 | SPADE | [[Gei13]](), [[GAW+08]]() | ✘ | ✔ | - | 
-| Tapestry | 1992 | None | [[TGNO92]](), [[Gei13]]() | ✘ | ✔ | - | 
-| TelegraphCQ | 2003 | None | [[CCD+03]](), [[KCC+03]]() | ✘ | ✔ | - | 
-| [TIBCO BusinessEvents](http://www.tibco.com/products/event-processing/complex-event-processing/businessevents/) | ? | ? | ? | ✘ | ✔ | - | 
-| [TIBCO StreamBase](http://www.streambase.com/) | ? | None | ? | ✘ | ✔ | - | 
-| TimeStream | 2015 | None | [[QHS+13]]() | ✘ | ✔ | based on StreamInsight | 
-| TinyDB | 2002 | None | [[MFHH02]](), [[MFHH03]]() | ✘ | ✔ | - | 
-| Tribeca | 1998 | None | [[SH98]]() | ✘ | ✔ | - | 
-| Truviso | 2015 | Cisco Prime | [[KFD+10]]() | ✘ | ✔ | - | 
-| [WSO2 CEP Server](http://wso2.com/products/complex-event-processor/) | ? | None | None | ✘ | ✔ | - | 
-| ZStream | 2015 | None | [[MM09]]() | ✘ | ✔ | - | 
+| Sybase CEP | ? | ? | None | ✘ | | based on Coral8 and Aleri | 
+| System S | 2008 | SPADE | [[Gei13]](), [[GAW+08]]() | ✘ | | | 
+| Tapestry | 1992 | None | [[TGNO92]](), [[Gei13]]() | ✘ | | | 
+| TelegraphCQ | 2003 | None | [[CCD+03]](), [[KCC+03]]() | ✘ | | | 
+| [TIBCO BusinessEvents](http://www.tibco.com/products/event-processing/complex-event-processing/businessevents/) | ? | ? | ? | ✘ | | | 
+| [TIBCO StreamBase](http://www.streambase.com/) | ? | None | ? | ✘ | |  | 
+| TimeStream | 2015 | None | [[QHS+13]]() | ✘ | | based on StreamInsight | 
+| TinyDB | 2002 | None | [[MFHH02]](), [[MFHH03]]() | ✘ | | | 
+| Tribeca | 1998 | None | [[SH98]]() | ✘ | | | 
+| Truviso | 2015 | Cisco Prime | [[KFD+10]]() | ✘ | | | 
+| [WSO2 CEP Server](http://wso2.com/products/complex-event-processor/) | ? | None | None | ✘ | | | 
+| ZStream | 2015 | None | [[MM09]]() | ✘ | | | 
 
