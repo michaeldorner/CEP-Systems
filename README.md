@@ -21,7 +21,7 @@ An overview over Complex Event Processing Systems
 | Elastic StreamCloud | 2012 | None | [[GJPPM+12]]() | ✘ | | developed by Universidad Politécnica de Madrid | 
 | Elastic System S | 2012 | None | None | ✘ | | | 
 | [Esper](http://www.espertech.com/esper/index.php) | 2012 | None | None | ✔ | CS/[OS](http://www.espertech.com/download/) |  | 
-| Flexstream | 2009 | None | [HCK+09] | ✘ | ✔ | | 
+| Flexstream | 2009 | None | [HCK+09] | ✘ | | | 
 | [Fujitsu Big Data CEP Server](http://www.fujitsu.com/global/products/software/middleware/application-infrastructure/interstage/solutions/big-data/bdcep/features/) | 2009 | None | None | ✔ | CS |  | 
 | Gigascope | 2003 | None | [[CJSS03a]](), [[CJSS03b]]()] | ✘ | ✔ | - | 
 | [Global Sensor Networks](https://github.com/LSIR/gsn) | 2003 | None | [[AMS06]](AMS06.pdf) | ✘ | [OS](https://github.com/LSIR/gsn) | - | 
@@ -43,42 +43,42 @@ An overview over Complex Event Processing Systems
 | OpenCQ | 2015 | None | [[LPT99]]() | | | | 
 | [Oracle CEP](http://www.oracle.com/technetwork/middleware/complex-event-processing/overview/index.html) | ? | None | None | ✔ | CS | | 
 | [Oracle CQL](https://docs.oracle.com/cd/E14571_01/apirefs.1111/e12048.pdf) | ? | Oracle CEP | None | ✔ | CS | | 
-| OSIRIS-SE | 2005 | None | [[BSS05]]() | ✘ | ✔ | - | 
-| Pipes | 2015 | Hybmig | [[CHK+03]](), [[KS04]](), [[KS05]](), [[Krä07]]() | ✘ | ✔ | developed by University of Marburg | 
-| Predator | 1998 | None | [[Ses98]]() | ✘ | ✔ | - | 
-| Pulsar | ? | Esper | [[KBF+15]]() | ✘ | ✔ | uses internally Jetstream, which is based on Esper | 
-| Rapide | ? | None | ? | ✘ | ✔ | developed by Stanford University | 
-| RLD | ? | ? | ? | ✘ | ✔ | - | 
-| [RTM Analyzer](http://www.gfft-portal.de/files/WhitePaper_RTM_Analyzer.pdf) | ? | None | SoftwareAG WebMethods BE | ✘ | ✔ | - | 
-| S-Net | 2010 | None | [[GSS10]]() | ✘ | ✔ | - | 
-| S-Store | 2015 | None | [[KBF+15]]() | ✘ | ✔ | - | 
-| S4 | 2010 | None | [[NRNK10]]() | ✘ | ✔ | First *Yahoo! S4*, later *Apache S4* | 
-| [Samza](http://samza.apache.org/) | 2015 | None | [[KBF+15]]() | ✘ | ✔ | - | 
-| [SAP ESP](http://scn.sap.com/community/event-stream-processor) | ? | ? | ? | ✘ | ✔ | - | 
-| [SAS Event Stream Processing](http://www.sas.com/en_us/software/data-management/event-stream-processing.html) | ? | ? | ? | ✘ | ✔ | - |
-| SASE | 2007 | None | [[DSA07]]() | ✘ | ✔ | developed by UC Berkeley and UMass Amherst | 
-| SEEP | 2010 | None | [[MEB+10]]() | ✘ | ✔ | - | 
-| SGuard | ? | ? | ? | ✘ | ✔ | - | 
-| Software AG WebMethods BE | ? | None | None | ✘ | ✔ | - | 
-| SPADE | 2008 | InfoSphere Streams | [[GAW+08]]() | ✘ | ✔ | - | 
-| [Spark](http://spark.apache.org/) | 2012 | D-Streams | [[ZDL+12]](), [[ZDL+13]]() | ✘ | ✔ | - | 
-| SpoVNet | ? | None | ? | ✘ | ✔ | deveoped by Karlsruhe Institute of Technology, University of Stuttgart, University of Mannheim, University of Tübingen | 
-| [SQLStream](http://www.sqlstream.com/) | 2015 | None | ? | ✘ | ✔ | - | 
-| SStreaMWare | 2008 | None | [[GRL+08]]() | ✘ | ✔ | - | 
-| StatStream | 2002 | None | [[ZS02]]() | ✘ | ✔ | - | 
-| Storm | 2014 | Heron | [[TTS+14]]() | ✘ | ✔ | - | 
-| Stormy | 2010 | None | [[LHKK12]](), [[Mer10]]() | ✘ | ✔ | - | 
-| Stratosphere | 2013 | None | [[LAS+13]]() | ✘ | ✔ | - | 
-| STREAM | 2015 | None | [[ABB+03]](), [[ABB+04]]() | ✘ | ✔ | develped at Stanford University | 
-| Stream As You Go | 2012 | None | [[KBRT12]]() | ✘ | ✔ | - | 
-| StreamBase | 2010 | TIBCO StreamBase | [[EMR+10]]() | ✘ | ✔ | based on Aurora | 
-| StreamCloud | 2010 | Elastic StreamCloud | [[GJPPMV10]]() | ✘ | ✔ | - | 
-| [StreamCruncher](http://www.streamcruncher.com/) | ? | None | None | ✘ | ✔ | - | 
-| StreamGlobe | 2004 | None | [[KSKR05]](), [[SKK04]](), [[SK04]]() | ✘ | ✔ | - | 
-| Stream MapReduce | 2011 | StreamMine3G | [[BMK+11]]() | ✘ | ✔ | - | 
-| Stream Mill | 2008 | None | [[TMZ08]]() | ✘ | ✔ | - | 
-| StreamMine3G | 2014 | None | [[MBF14]]() | ✘ | ✔ | - | 
-| StreaMIT | 2002 | None | [[GTK+02]](), [[GTA06]](), [[Gor10]]() | ✘ | ✔ | - | 
+| OSIRIS-SE | 2005 | None | [[BSS05]]() | ✘ | | | 
+| Pipes | 2015 | Hybmig | [[CHK+03]](), [[KS04]](), [[KS05]](), [[Krä07]]() | ✘ | | developed by University of Marburg | 
+| Predator | 1998 | None | [[Ses98]]() | ✘ | |  | 
+| Pulsar | ? | Esper | [[KBF+15]]() | ✘ | | uses internally Jetstream, which is based on Esper | 
+| Rapide | ? | None | ? | ✘ | | developed by Stanford University | 
+| RLD | ? | ? | ? | ✘ | | | 
+| [RTM Analyzer](http://www.gfft-portal.de/files/WhitePaper_RTM_Analyzer.pdf) | ? | None | SoftwareAG WebMethods BE | ✘ | | | 
+| S-Net | 2010 | None | [[GSS10]]() | ✘ | | | 
+| S-Store | 2015 | None | [[KBF+15]]() | ✘ | | | 
+| [S4](http://incubator.apache.org/s4/) | 2010 | None | [[NRNK10]]() | ✘ | [OS](http://incubator.apache.org/s4/download/) | First *Yahoo! S4*, later *Apache S4* | 
+| [Samza](http://samza.apache.org/) | 2015 | None | [[KBF+15]]() | ✘ | | | 
+| [SAP ESP](http://scn.sap.com/community/event-stream-processor) | ? | ? | ? | ✘ | | | 
+| [SAS Event Stream Processing](http://www.sas.com/en_us/software/data-management/event-stream-processing.html) | ? | ? | ? | ✘ | |  |
+| SASE | 2007 | None | [[DSA07]]() | ✘ |  | developed by UC Berkeley and UMass Amherst | 
+| SEEP | 2010 | None | [[MEB+10]]() | ✘ |  |  | 
+| SGuard | ? | ? | ? | ✘ |  |  | 
+| Software AG WebMethods BE | ? | None | None | ✘ |  |  | 
+| SPADE | 2008 | InfoSphere Streams | [[GAW+08]]() | ✘ |  |  | 
+| [Spark](http://spark.apache.org/) | 2012 | D-Streams | [[ZDL+12]](), [[ZDL+13]]() | ✘ |  |  | 
+| SpoVNet | ? | None | ? | ✘ |  | deveoped by Karlsruhe Institute of Technology, University of Stuttgart, University of Mannheim, University of Tübingen | 
+| [SQLStream](http://www.sqlstream.com/) | 2015 | None | ? | ✘ | | | 
+| SStreaMWare | 2008 | None | [[GRL+08]]() | ✘ | | | 
+| StatStream | 2002 | None | [[ZS02]]() | ✘ | |  | 
+| Storm | 2014 | Heron | [[TTS+14]]() | ✘ |  |  | 
+| Stormy | 2010 | None | [[LHKK12]](), [[Mer10]]() | ✘ |  |  | 
+| Stratosphere | 2013 | None | [[LAS+13]]() | ✘ |  |  | 
+| STREAM | 2015 | None | [[ABB+03]](), [[ABB+04]]() | ✘ |  | develped at Stanford University | 
+| Stream As You Go | 2012 | None | [[KBRT12]]() | ✘ |  |  | 
+| StreamBase | 2010 | TIBCO StreamBase | [[EMR+10]]() | ✘ |  | based on Aurora | 
+| StreamCloud | 2010 | Elastic StreamCloud | [[GJPPMV10]]() | | | | 
+| [StreamCruncher](http://www.streamcruncher.com/) | ? | None | None | | | | 
+| StreamGlobe | 2004 | None | [[KSKR05]](), [[SKK04]](), [[SK04]]() | | | | 
+| Stream MapReduce | 2011 | StreamMine3G | [[BMK+11]]() | | | | 
+| Stream Mill | 2008 | None | [[TMZ08]]() | | | | 
+| StreamMine3G | 2014 | None | [[MBF14]]() | | | | 
+| StreaMIT | 2002 | None | [[GTK+02]](), [[GTA06]](), [[Gor10]]() | ✘ |  |  | 
 | [Stylus](https://qconsf.com/sf2015/presentation/stylus-facebook-new-stream-processing-platform) | 2015 | None | [[KBF15]]() | ✔ | CS | used at Facebook | 
 | Sybase CEP | ? | ? | None | ✘ | ✔ | based on Coral8 and Aleri | 
 | System S | 2008 | SPADE | [[Gei13]](), [[GAW+08]]() | ✘ | ✔ | - | 
