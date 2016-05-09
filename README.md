@@ -1,15 +1,16 @@
 # Complex-Event-Processing-Systems
 An overview over Complex Event Processing Systems  
 
-| System | Birth | Nachfolger | Papers | Active | Open Source |  Comment
+| System | First Release | Nachfolger | Papers | Active | Licence |  Comment
 | ------ | ----- | ----------- | ------ | ------ | ----------- | ------
-| Alert | 1991 | None | [[SPAM91]](SPAM91.pdf) | ✘ | ✔ | - | 
-| Aurora | 2002 | None | [[BBC+04]](BBC+04.pdf), [[CCC+02]](CCC+02.pdf), [[ZDC03]](ZDC03.pdf) | ✘ | ✔ | - | 
-| Medusa | tbd | None | [[ZDC03]](ZDC03.pdf) | ✘ | ✔ | - | 
-| Borelais | tbd | None | [[AAB+05]](AAB+05.pdf) | ✘ | ✔ | - | 
+| Alert | 1991 | None | [[SPAM91]](SPAM91.pdf) | ✘ | - | - | 
+| Aurora | 2002 | None | [[BBC+04]](BBC+04.pdf), [[CCC+02]](CCC+02.pdf), [[ZDC03]](ZDC03.pdf) | ✘ | - | developed by Brandeis University, Brown University, and MIT | 
+| [Medusa](http://nsl.cs.usc.edu/Projects/Medusa) | 2003 | None | [[ZDC03]](ZDC03.pdf) | ✘ | [OS](https://github.com/USC-NSL/Medusa) | - | 
+| [Borealis](http://cs.brown.edu/research/borealis/public/) | 2005 | None | [[AAB+05]](AAB+05.pdf) | ✘ | [OS](http://cs.brown.edu/research/borealis/public/#software) | developed by Brandeis University, Brown University, and MIT  | 
 | CAPE | 2004 | D-CAPE | [[RDS+04]]() | ✘ | ✔ | - | 
-| Cayuga | 2007 | Johka | [[DGP+07]]() | ✘ | ✔ | - | 
+| Cayuga | 2007 | Johka | [[DGP+07]]() | ✘ | ✔ | developed by Cornell University | 
 | CEDR | 2006 | StreamInsight | [[BCM06]]() | ✘ | ✔ | - | 
+| CEPiL | 2010 | None | ? | ✘ | - | developed by University of Stuttgart and GeorgiaTech | 
 | Cisco Prime | ? | None |  | ✔ | ✘ | - | 
 | Cougar | 2001 | None | [[BGS01]](), [[Yao03]]() | ✘ | ✔ | - | 
 | Coral8 | 2001 | None | [[Mor08]]() | ✘ | ✔ | - | 
@@ -38,13 +39,15 @@ An overview over Complex Event Processing Systems
 | NiagaraCQ | 2000 | None | [[CDTW00]](), [[NDM+01]]() | ✘ | ✔ | - | 
 | Nile | 2004 | Nile-PDT | [[HMA+04]]() | ✘ | ✔ | - | 
 | Nile-PDT | 2015 | None | [[AAB+05b]]() | ✘ | ✔ | - | 
+| Odysseus | ? | None | ? | ✘ | ✔ | - | 
 | OpenCQ | 2015 | None | [[LPT99]]() | ✘ | ✔ | - | 
 | Oracle CEP | ? | ? | None | ✘ | ✔ | - | 
 | Oracle CQL | ? | Oracle CEP | ? | ✘ | ✔ | - | 
 | OSIRIS-SE | 2005 | None | [[BSS05]]() | ✘ | ✔ | - | 
-| Pipes | 2015 | Hybmig | [[CHK+03]](), [[KS04]](), [[KS05]](), [[Krä07]]() | ✘ | ✔ | - | 
+| Pipes | 2015 | Hybmig | [[CHK+03]](), [[KS04]](), [[KS05]](), [[Krä07]]() | ✘ | ✔ | developed by University of Marburg | 
 | Predator | 1998 | None | [[Ses98]]() | ✘ | ✔ | - | 
 | Pulsar | ? | Esper | [[KBF+15]]() | ✘ | ✔ | uses internally Jetstream, which is based on Esper | 
+| Rapide | ? | None | ? | ✘ | ✔ | developed by Stanford University | 
 | RLD | ? | ? | ? | ✘ | ✔ | - | 
 | [RTM Analyzer](http://www.gfft-portal.de/files/WhitePaper_RTM_Analyzer.pdf) | ? | None | SoftwareAG WebMethods BE | ✘ | ✔ | - | 
 | S-Net | 2010 | None | [[GSS10]]() | ✘ | ✔ | - | 
@@ -53,19 +56,20 @@ An overview over Complex Event Processing Systems
 | [Samza](http://samza.apache.org/) | 2015 | None | [[KBF+15]]() | ✘ | ✔ | - | 
 | [SAP ESP](http://scn.sap.com/community/event-stream-processor) | ? | ? | ? | ✘ | ✔ | - | 
 | [SAS Event Stream Processing](http://www.sas.com/en_us/software/data-management/event-stream-processing.html) | ? | ? | ? | ✘ | ✔ | - |
-| SASE | 2007 | None | [[DSA07]]() | ✘ | ✔ | - | 
+| SASE | 2007 | None | [[DSA07]]() | ✘ | ✔ | developed by UC Berkeley and UMass Amherst | 
 | SEEP | 2010 | None | [[MEB+10]]() | ✘ | ✔ | - | 
 | SGuard | ? | ? | ? | ✘ | ✔ | - | 
 | Software AG WebMethods BE | ? | None | None | ✘ | ✔ | - | 
 | SPADE | 2008 | InfoSphere Streams | [[GAW+08]]() | ✘ | ✔ | - | 
 | [Spark](http://spark.apache.org/) | 2012 | D-Streams | [[ZDL+12]](), [[ZDL+13]]() | ✘ | ✔ | - | 
+| SpoVNet | ? | None | ? | ✘ | ✔ | deveoped by Karlsruhe Institute of Technology, University of Stuttgart, University of Mannheim, University of Tübingen | 
 | [SQLStream](http://www.sqlstream.com/) | 2015 | None | ? | ✘ | ✔ | - | 
 | SStreaMWare | 2008 | None | [[GRL+08]]() | ✘ | ✔ | - | 
 | StatStream | 2002 | None | [[ZS02]]() | ✘ | ✔ | - | 
 | Storm | 2014 | Heron | [[TTS+14]]() | ✘ | ✔ | - | 
 | Stormy | 2010 | None | [[LHKK12]](), [[Mer10]]() | ✘ | ✔ | - | 
 | Stratosphere | 2013 | None | [[LAS+13]]() | ✘ | ✔ | - | 
-| STREAM | 2015 | None | [[ABB+03]](), [[ABB+04]]() | ✘ | ✔ | - | 
+| STREAM | 2015 | None | [[ABB+03]](), [[ABB+04]]() | ✘ | ✔ | develped at Stanford University | 
 | Stream As You Go | 2012 | None | [[KBRT12]]() | ✘ | ✔ | - | 
 | StreamBase | 2010 | TIBCO StreamBase | [[EMR+10]]() | ✘ | ✔ | based on Aurora | 
 | StreamCloud | 2010 | Elastic StreamCloud | [[GJPPMV10]]() | ✘ | ✔ | - | 
