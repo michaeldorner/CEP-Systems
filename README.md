@@ -4,16 +4,16 @@ An overview over Complex Event Processing Systems
 | System | First Release | Nachfolger | Papers | Active | Licence |  Comment
 | ------ | ----- | ----------- | ------ | ------ | ----------- | ------
 | Alert | 1991 | None | [[SPAM91]](SPAM91.pdf) | ✘ | - | - | 
-| Aurora | 2002 | None | [[BBC+04]](BBC+04.pdf), [[CCC+02]](CCC+02.pdf), [[ZDC03]](ZDC03.pdf) | ✘ | - | developed by Brandeis University, Brown University, and MIT | 
+| [Aurora](http://cs.brown.edu/research/aurora/) | 2002 | None | [[BBC+04]](BBC+04.pdf), [[CCC+02]](CCC+02.pdf), [[ZDC03]](ZDC03.pdf) | ✘ | [OS](http://cs.brown.edu/research/aurora/aurora_1_2.tar.gz) | developed by Brandeis University, Brown University, and MIT | 
 | [Medusa](http://nsl.cs.usc.edu/Projects/Medusa) | 2003 | None | [[ZDC03]](ZDC03.pdf) | ✘ | [OS](https://github.com/USC-NSL/Medusa) | - | 
 | [Borealis](http://cs.brown.edu/research/borealis/public/) | 2005 | None | [[AAB+05]](AAB+05.pdf) | ✘ | [OS](http://cs.brown.edu/research/borealis/public/#software) | developed by Brandeis University, Brown University, and MIT  | 
-| CAPE | 2004 | D-CAPE | [[RDS+04]]() | ✘ | ✔ | - | 
-| Cayuga | 2007 | Johka | [[DGP+07]]() | ✘ | ✔ | developed by Cornell University | 
-| CEDR | 2006 | StreamInsight | [[BCM06]]() | ✘ | ✔ | - | 
-| CEPiL | 2010 | None | ? | ✘ | - | developed by University of Stuttgart and GeorgiaTech | 
-| Cisco Prime | ? | None |  | ✔ | ✘ | - | 
-| Cougar | 2001 | None | [[BGS01]](), [[Yao03]]() | ✘ | ✔ | - | 
-| Coral8 | 2001 | None | [[Mor08]]() | ✘ | ✔ | - | 
+| [CAPE (Constraint-exploiting Adaptive Processing Engine)](http://davis.wpi.edu/dsrg/PROJECTS/CAPE/index.html) | 2004 | D-CAPE | [[RDS+04]](), [[WAL+07]]() | ✘ | - | developed by Worcester Polytechnic Institute, source code not available, although announced in 2009 | 
+| [Cayuga](http://www.cs.cornell.edu/bigreddata/cayuga/) | 2007 | Johka | [[DGP+07]]() | ✘ | [OS](http://www.cs.cornell.edu/bigreddata/cayuga/cayuga_code/cayuga_code.php) | developed by Cornell University | 
+| CEDR (Complex Event Detection and Response) | 2006 | StreamInsight | [[BCM06]]() | ✘ | - | - | 
+| [CEPiL](https://www.ipvs.uni-stuttgart.de/abteilungen/vs/forschung/projekte/CEP-in-the-Large) | 2010 | None | ? | ✘ | - | developed by University of Stuttgart and GeorgiaTech | 
+| [Cisco Prime](http://www.cisco.com/c/en/us/td/docs/net_mgmt/prime/network/4-1/user/guide/CiscoPrimeNetwork41UserGuide/fault-theory.html) | ? | None |  | ✔ | CS | - | 
+| [Cougar](http://www.cs.cornell.edu/bigreddata/cougar/index.php) | 2001 | None | [[BGS01]](), [[Yao03]]() | ✘ | - | developed by Cornell University | 
+| [Coral8](https://www.crunchbase.com/organization/coral8) | 2001 | None | [[Mor08]]() | ✘ | CS | acuqired by Aleri in 2009 | 
 | D-CAPE | 2005 | RLD | [[SLJR05]]() | ✘ | ✔ | - | 
 | DejaVu | 2011 | None | [[DFT11]]() | ✘ | ✔ | - | 
 | Elastic Operator | 2009 | None | [[SAG+09]]() | ✘ | ✔ | - | 
