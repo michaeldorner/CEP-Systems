@@ -78,7 +78,7 @@ An overview over Complex Event Processing Systems
 | Stream MapReduce | 2011 | StreamMine3G | [[BMK+11]]() | ✘ | ✔ | - | 
 | Stream Mill | 2008 | None | [[TMZ08]]() | ✘ | ✔ | - | 
 | StreamMine3G | 2014 | None | [[MBF14]]() | ✘ | ✔ | - | 
-| StreaMIT | 2002 | None | [[GTK+02]](), [[GTA06]](), [Gor10]]() | ✘ | ✔ | - | 
+| StreaMIT | 2002 | None | [[GTK+02]](), [[GTA06]](), [[Gor10]]() | ✘ | ✔ | - | 
 | [Stylus](https://qconsf.com/sf2015/presentation/stylus-facebook-new-stream-processing-platform) | 2015 | None | [[KBF15]]() | ✔ | CS | used at Facebook | 
 | Sybase CEP | ? | ? | None | ✘ | ✔ | based on Coral8 and Aleri | 
 | System S | 2008 | SPADE | [[Gei13]](), [[GAW+08]]() | ✘ | ✔ | - | 
