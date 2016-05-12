@@ -29,7 +29,7 @@ An overview over Complex Event Processing Systems
 | [Hitachi uCosminexus Stream Data Platform](http://www.hitachi.com/products/it/software/prod/cosminexus/products/list/index.html) | 2010 | | [[HIA+10]](http://dl.acm.org/citation.cfm?id=2128220) | ✘ |  | 
 | HybMig | 2007 | RTM Analyzer | [[YKPS07]]() | ✘ | | 
 | [IBM InfoSphere Streams](http://www-03.ibm.com/software/products/en/ibm-streams) | 2015 | SPADE | [[BBF+10]]() | ✘ | | 
-| Johka | 2009 | | [[BGHJ09]]() | ? | ✘ | | 
+| Johka | 2009 | | [[BGHJ09]]() | ✘ | | 
 | Lucent QTM | 1998 | | [[BBKS98b]]() | ✘  | | 
 | MavStream | 2004 | | [[JC04]](), [[jia07]](),  [[JC06]](),  [[JAC07]]() | ✘ |  | developed by University of Texas at Arlington | 
 | [Microsoft StreamInsight](https://technet.microsoft.com/de-de/library/ee362541(v=sql.111).aspx) | 2011 | | [[ACGS11]]() | ✘ | | 
