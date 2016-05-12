@@ -3,8 +3,8 @@ An overview over Complex Event Processing Systems
 
 | System | First Release | Nachfolger | Papers | Source Code |  Comment
 | ------ | ----- | ----------- | ------ | ------ | ----------- | ------
-| Aleri | | None | | | ✘ | acquired by Sybase in 2010 | 
-| Alert | 1991 | None | [[SPAM91]](SPAM91.pdf) | | ✘ | | 
+| Aleri | | None | | ✘ | acquired by Sybase in 2010 | 
+| Alert | 1991 | None | [[SPAM91]](SPAM91.pdf) | ✘ | | 
 | [Aurora](http://cs.brown.edu/research/aurora/) | 2002 | None | [[BBC+04]](BBC+04.pdf), [[CCC+02]](CCC+02.pdf), [[ZDC03]](ZDC03.pdf) |  [Download](http://cs.brown.edu/research/aurora/aurora_1_2.tar.gz) | developed by Brandeis University, Brown University, and MIT | 
 | [Medusa](http://nsl.cs.usc.edu/Projects/Medusa) | 2003 | None | [[ZDC03]](ZDC03.pdf) | [Download](https://github.com/USC-NSL/Medusa) | | 
 | [Borealis](http://cs.brown.edu/research/borealis/public/) | 2005 | None | [[AAB+05]](AAB+05.pdf) | [Download](http://cs.brown.edu/research/borealis/public/#software) | developed by Brandeis University, Brown University, and MIT  | 
@@ -20,7 +20,7 @@ An overview over Complex Event Processing Systems
 | Elastic Operator | 2009 | None | [[SAG+09]]() | ✘ | based on SPADE | 
 | Elastic StreamCloud | 2012 | None | [[GJPPM+12]]() | ✘ | developed by Universidad Politécnica de Madrid | 
 | Elastic System S | 2012 | None | None | ✘ | | 
-| [Esper](http://www.espertech.com/esper/index.php) | 2012 | None | None | CS/[Download](http://www.espertech.com/download/) |  | 
+| [Esper](http://www.espertech.com/esper/index.php) | 2012 | None | None | [Download (partly)](http://www.espertech.com/download/) |  | 
 | Flexstream | 2009 | None | [HCK+09] | ✘ | | 
 | [Fujitsu Big Data CEP Server](http://www.fujitsu.com/global/products/software/middleware/application-infrastructure/interstage/solutions/big-data/bdcep/features/) | 2009 | None | None | ✘ | | 
 | Gigascope | 2003 | None | [[CJSS03a]](), [[CJSS03b]]()] | ✘  | | 
@@ -29,8 +29,8 @@ An overview over Complex Event Processing Systems
 | [Hitachi uCosminexus Stream Data Platform](http://www.hitachi.com/products/it/software/prod/cosminexus/products/list/index.html) | 2010 | None | [[HIA+10]](http://dl.acm.org/citation.cfm?id=2128220) | ✘ |  | 
 | HybMig | 2007 | RTM Analyzer | [[YKPS07]]() | ✘ | | 
 | [IBM InfoSphere Streams](http://www-03.ibm.com/software/products/en/ibm-streams) | 2015 | SPADE | [[BBF+10]]() | ✘ | | 
-| Johka | 2009 | None | [[BGHJ09]]() | ? | ? | | 
-| Lucent QTM | 1998 | None | [[BBKS98b]]() | ✘ | CS | | 
+| Johka | 2009 | None | [[BGHJ09]]() | ? | ✘ | | 
+| Lucent QTM | 1998 | None | [[BBKS98b]]() | ✘  | | 
 | MavStream | 2004 | None | [[JC04]](), [[jia07]](),  [[JC06]](),  [[JAC07]]() | ✘ |  | developed by University of Texas at Arlington | 
 | [Microsoft StreamInsight](https://technet.microsoft.com/de-de/library/ee362541(v=sql.111).aspx) | 2011 | None | [[ACGS11]]() | ✘ | | 
 | MillWheel | 2013 | None | [[ABB+13]]() | ✘ | developed and used by Google| 
@@ -39,19 +39,19 @@ An overview over Complex Event Processing Systems
 | NiagaraCQ | 2000 | None | [[CDTW00]](), [[NDM+01]]() | ✘ | | 
 | Nile | 2004 | Nile-PDT | [[HMA+04]]() | ✘ | | 
 | Nile-PDT | 2015 | None | [[AAB+05b]]() | ✘ | | 
-| Odysseus | ? | None | ? | | ✘ | 
-| OpenCQ | 2015 | None | [[LPT99]]() | | ✘ | 
+| Odysseus | ? | None | ? | ✘ | | 
+| OpenCQ | 2015 | None | [[LPT99]]() | ✘ | | 
 | [Oracle CEP](http://www.oracle.com/technetwork/middleware/complex-event-processing/overview/index.html) | ? | None | None | ✘ | | 
 | [Oracle CQL](https://docs.oracle.com/cd/E14571_01/apirefs.1111/e12048.pdf) | ? | Oracle CEP | None | ✘ | | 
 | OSIRIS-SE | 2005 | None | [[BSS05]]() | ✘ | | 
-| Pipes | 2015 | Hybmig | [[CHK+03]](), [[KS04]](), [[KS05]](), [[Krä07]]() | | developed by University of Marburg | 
-| Predator | 1998 | None | [[Ses98]]() |  |  | 
-| Pulsar | ? | Esper | [[KBF+15]]() | | uses internally Jetstream, which is based on Esper | 
-| Rapide | ? | None | ? | | developed by Stanford University | 
-| RLD | ? | ? | ? | | | 
-| [RTM Analyzer](http://www.gfft-portal.de/files/WhitePaper_RTM_Analyzer.pdf) | ? | None | SoftwareAG WebMethods BE | | | 
-| S-Net | 2010 | None | [[GSS10]]() | | | 
-| S-Store | 2015 | None | [[KBF+15]]() | | | 
+| Pipes | 2015 | Hybmig | [[CHK+03]](), [[KS04]](), [[KS05]](), [[Krä07]]() | ✘ | developed by University of Marburg | 
+| Predator | 1998 | None | [[Ses98]]() | ✘ |  | 
+| Pulsar | ? | Esper | [[KBF+15]]() | ✘ | uses internally Jetstream, which is based on Esper | 
+| Rapide | ? | None | ? | ✘ | developed by Stanford University | 
+| RLD | ? | ? | ? | ✘ | | 
+| [RTM Analyzer](http://www.gfft-portal.de/files/WhitePaper_RTM_Analyzer.pdf) | ? | SoftwareAG WebMethods BE  | ✘ | | 
+| S-Net | 2010 | None | [[GSS10]]() | ✘ | | 
+| S-Store | 2015 | None | [[KBF+15]]() | ✘ | | 
 | [S4](http://incubator.apache.org/s4/) | 2010 | None | [[NRNK10]]() | [Download](http://incubator.apache.org/s4/download/) | First *Yahoo! S4*, later *Apache S4* | 
 | [Samza](http://samza.apache.org/) | 2015 | None | [[KBF+15]]() | ✘ | | 
 | [SAP ESP](http://scn.sap.com/community/event-stream-processor) | ? | ? | ? | ✘ | | 
