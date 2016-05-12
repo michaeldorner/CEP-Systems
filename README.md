@@ -75,7 +75,7 @@ An overview over Complex Event Processing Systems
 | StreamCloud | 2010 | Elastic StreamCloud | [[GJPPMV10]]() | ✘ | | 
 | [StreamCruncher](http://www.streamcruncher.com/) | ? | | | ✘ | | 
 | StreamGlobe | 2004 | | [[KSKR05]](), [[SKK04]](), [[SK04]]() | ✘ | | 
-| Stream MapReduce | 2011 | StreamMine3G | [[BMK+11]]() | | ✘ | | 
+| Stream MapReduce | 2011 | StreamMine3G | [[BMK+11]]() | ✘ | | 
 | Stream Mill | 2008 | | [[TMZ08]]() | ✘ | | 
 | StreamMine3G | 2014 | | [[MBF14]]() | ✘ | | 
 | StreaMIT | 2002 | | [[GTK+02]](), [[GTA06]](), [[Gor10]]() | ✘ |  | 
