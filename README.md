@@ -11,7 +11,7 @@ An overview over Complex Event Processing Systems
 | [CAPE (Constraint-exploiting Adaptive Processing Engine)](http://davis.wpi.edu/dsrg/PROJECTS/CAPE/index.html) | 2004 | D-CAPE | [[RDS+04]](papers/), [[WAL+07]](papers/) | ✘, although anounced in 2009 | developed by Worcester Polytechnic Institute | 
 | [Cayuga](http://www.cs.cornell.edu/bigreddata/cayuga/) | 2007 | Johka | [[DGP+07]](papers/) | [Download](http://www.cs.cornell.edu/bigreddata/cayuga/cayuga_code/cayuga_code.php) | developed by Cornell University | 
 | CEDR (Complex Event Detection and Response) | 2006 | StreamInsight | [[BCM06]](papers/) | ✘ | | 
-| [CEPiL](https://www.ipvs.uni-stuttgart.de/abteilungen/vs/forschung/projekte/CEP-in-the-Large) | 2010 | | ? | ✘ | developed by University of Stuttgart and GeorgiaTech | 
+| [CEPiL](https://www.ipvs.uni-stuttgart.de/abteilungen/vs/forschung/projekte/CEP-in-the-Large) | 2010 | | [Papers](http://www2.informatik.uni-stuttgart.de/zdi/buecherei/NCSTRL_listings/projekt/CEPIL.html) | ✘ | research project by University of Stuttgart and GeorgiaTech | 
 | [Cisco Prime](http://www.cisco.com/c/en/us/td/docs/net_mgmt/prime/network/4-1/user/guide/CiscoPrimeNetwork41UserGuide/fault-theory.html) | ? | |  | ✘ | | 
 | [Cougar](http://www.cs.cornell.edu/bigreddata/cougar/index.php) | 2001 | | [[BGS01]](papers/), [[Yao03]](papers/) | ✘ | developed by Cornell University | 
 | [Coral8](https://www.crunchbase.com/organization/coral8) | 2001 | | [[Mor08]](papers/) | ✘ | acuqired by Aleri in 2009 | 
