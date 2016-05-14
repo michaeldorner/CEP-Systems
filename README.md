@@ -53,7 +53,7 @@ An overview over Complex Event Processing Systems
 | S-Net | 2010 | | [[GSS10]](papers/) | ✘ | | 
 | S-Store | 2015 | | [[KBF+15]](papers/) | ✘ | | 
 | [S4](http://incubator.apache.org/s4/) | 2010 | | [[NRNK10]](papers/) | [Download](http://incubator.apache.org/s4/download/) | First *Yahoo! S4*, later *Apache S4* | 
-| [Samza](http://samza.apache.org/) | 2015 | | [[KBF+15]](papers/) | [Download](http://samza.apache.org/startup/download/) | | 
+| [Samza](http://samza.apache.org/) | 2015 | | [[KBF+15]](papers/), [KK15](/papers) | [Download](http://samza.apache.org/startup/download/) | | 
 | [SAP ESP](http://scn.sap.com/community/event-stream-processor) | ? | ? | ? | ✘ | | 
 | [SAS Event Stream Processing](http://www.sas.com/en_us/software/data-management/event-stream-processing.html) | ? | ? | ? | ✘ |  |
 | SASE | 2007 | | [[DSA07]](papers/) | ✘ | developed by UC Berkeley and UMass Amherst | 
