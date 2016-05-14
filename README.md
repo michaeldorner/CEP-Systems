@@ -35,7 +35,7 @@ An overview over Complex Event Processing Systems
 | [Microsoft StreamInsight](https://technet.microsoft.com/de-de/library/ee362541(v=sql.111).aspx) | 2011 | | [[ACGS11]](papers/) | ✘ | | 
 | MillWheel | 2013 | | [[ABB+13]](papers/) | ✘ | developed and used by Google| 
 | [Naiad](http://research.microsoft.com/en-us/projects/naiad/) | 2013 | | [[MMI+13]](papers/) | [Download](https://github.com/MicrosoftResearch/Naiad) | developed by Microsoft | 
-| [Nephele Streaming](https://github.com/bjoernlohrmann/nephele-streaming) | 2012 | | [LWK14]](papers/) | [Download](https://github.com/bjoernlohrmann/nephele-streaming) | | 
+| [Nephele Streaming](https://github.com/bjoernlohrmann/nephele-streaming) | 2012 | | [[LWK14]](papers/) | [Download](https://github.com/bjoernlohrmann/nephele-streaming) | | 
 | NiagaraCQ | 2000 | | [[CDTW00]](), [[NDM+01]]() | ✘ | | 
 | Nile | 2004 | Nile-PDT | [[HMA+04]]() | ✘ | | 
 | Nile-PDT | 2015 | | [[AAB+05b]]() | ✘ | | 
