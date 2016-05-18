@@ -4,10 +4,10 @@ An overview over Complex Event Processing Systems
 | System | First Release | Nachfolger | Papers | Source Code |  Comment
 | ------ | ----- | ----------- | ------ | ------ | ----------- | ------
 | Aleri | | | | ✘ | acquired by Sybase in 2010 | 
-| Alert | 1991 | | [[SPAM91]](papers/SPAM91.pdf) | ✘ | | 
-| [Aurora](http://cs.brown.edu/research/aurora/) | 2002 | | [[BBC+04]](papers/BBC+04.pdf), [[CCC+02]](papers/CCC+02.pdf), [[ZDC03]](papers/ZDC03.pdf) |  [Download](http://cs.brown.edu/research/aurora/aurora_1_2.tar.gz) | developed by Brandeis University, Brown University, and MIT | 
-| [Medusa](http://nsl.cs.usc.edu/Projects/Medusa) | 2003 | | [[ZDC03]](papers/ZDC03.pdf) | [Download](https://github.com/USC-NSL/Medusa) | | 
-| [Borealis](http://cs.brown.edu/research/borealis/public/) | 2005 | | [[AAB+05]](papers/AAB+05.pdf) | [Download](http://cs.brown.edu/research/borealis/public/#software) | developed by Brandeis University, Brown University, and MIT  | 
+| Alert | 1991 | | [[SPAM91]](raw/gh-pages/papers/SPAM91.pdf) | ✘ | | 
+| [Aurora](http://cs.brown.edu/research/aurora/) | 2002 | | [[BBC+04]](raw/gh-pages/papers/BBC%2B04.pdf), [[CCC+02]](raw/gh-pages/papers/CCC%2B02.pdf), [[ZDC03]](raw/gh-pages/papers/ZDC03.pdf) |  [Download](http://cs.brown.edu/research/aurora/aurora_1_2.tar.gz) | developed by Brandeis University, Brown University, and MIT | 
+| [Medusa](http://nsl.cs.usc.edu/Projects/Medusa) | 2003 | | [[ZDC03]](raw/gh-pages/papers/ZDC03.pdf) | [Download](https://github.com/USC-NSL/Medusa) | | 
+| [Borealis](http://cs.brown.edu/research/borealis/public/) | 2005 | | [[AAB+05]](raw/gh-pages/papers/AAB+05.pdf) | [Download](http://cs.brown.edu/research/borealis/public/#software) | developed by Brandeis University, Brown University, and MIT  | 
 | [CAPE (Constraint-exploiting Adaptive Processing Engine)](http://davis.wpi.edu/dsrg/PROJECTS/CAPE/index.html) | 2004 | D-CAPE | [[RDS+04]](papers/), [[WAL+07]](papers/) | ✘, although anounced in 2009 | developed by Worcester Polytechnic Institute | 
 | [Cayuga](http://www.cs.cornell.edu/bigreddata/cayuga/) | 2007 | Johka | [[DGP+07]](papers/) | [Download](http://www.cs.cornell.edu/bigreddata/cayuga/cayuga_code/cayuga_code.php) | developed by Cornell University | 
 | CEDR (Complex Event Detection and Response) | 2006 | StreamInsight | [[BCM06]](papers/) | ✘ | | 
