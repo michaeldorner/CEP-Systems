@@ -4,13 +4,13 @@ An overview over Complex Event Processing Systems
 | System | First Release | Nachfolger | Papers | Source Code |  Comment
 | ------ | ----- | ----------- | ------ | ------ | ----------- | ------
 | Aleri | | | | ✘ | acquired by Sybase in 2010 | 
-| Alert | 1991 | | [[SPAM91]](/blob/gh-pages/papers/SPAM91.PDF) | ✘ | | 
-| [Aurora](http://cs.brown.edu/research/aurora/) | 2002 | | [[BBC+04]](papers/), [[CCC+02]](raw/gh-pages/papers/CCC%2B02.pdf), [[ZDC03]]() |  [Download](http://cs.brown.edu/research/aurora/aurora_1_2.tar.gz) | developed by Brandeis University, Brown University, and MIT | 
-| [Medusa](http://nsl.cs.usc.edu/Projects/Medusa) | 2003 | | [[ZDC03]](papers/) | [Download](https://github.com/USC-NSL/Medusa) | | 
-| [Borealis](http://cs.brown.edu/research/borealis/public/) | 2005 | | [[AAB+05]](papers/) | [Download](http://cs.brown.edu/research/borealis/public/#software) | developed by Brandeis University, Brown University, and MIT  | 
-| [CAPE (Constraint-exploiting Adaptive Processing Engine)](http://davis.wpi.edu/dsrg/PROJECTS/CAPE/index.html) | 2004 | D-CAPE | [[RDS+04]](papers/), [[WAL+07]](papers/) | ✘, although anounced in 2009 | developed by Worcester Polytechnic Institute | 
-| [Cayuga](http://www.cs.cornell.edu/bigreddata/cayuga/) | 2007 | Johka | [[DGP+07]](papers/) | [Download](http://www.cs.cornell.edu/bigreddata/cayuga/cayuga_code/cayuga_code.php) | developed by Cornell University | 
-| CEDR (Complex Event Detection and Response) | 2006 | StreamInsight | [[BCM06]](papers/) | ✘ | | 
+| Alert | 1991 | | [[SPAM91]](/papers/SPAM91.pdf), [[SPAM91]](papers/SPAM91.pdf) | ✘ | | 
+| [Aurora](http://cs.brown.edu/research/aurora/) | 2002 | | [[BBC+04]](papers/BBC+04.pdf), [[CCC+02]](/papers/CCC+02.pdf), [[ZDC03]](/papers/ZDC03.pdf) |  [Download](http://cs.brown.edu/research/aurora/aurora_1_2.tar.gz) | developed by Brandeis University, Brown University, and MIT | 
+| [Medusa](http://nsl.cs.usc.edu/Projects/Medusa) | 2003 | | [[ZDC03]](papers/ZDC03.pdf) | [Download](https://github.com/USC-NSL/Medusa) | | 
+| [Borealis](http://cs.brown.edu/research/borealis/public/) | 2005 | | [[AAB+05]](papers/AAB+05.pdf) | [Download](http://cs.brown.edu/research/borealis/public/#software) | developed by Brandeis University, Brown University, and MIT  | 
+| [CAPE (Constraint-exploiting Adaptive Processing Engine)](http://davis.wpi.edu/dsrg/PROJECTS/CAPE/index.html) | 2004 | D-CAPE | [[RDS+04]](papers/RDS+04.pdf), [[WAL+07]](papers/WAL+07.pdf) | ✘, although anounced in 2009 | developed by Worcester Polytechnic Institute | 
+| [Cayuga](http://www.cs.cornell.edu/bigreddata/cayuga/) | 2007 | Johka | [[DGP+07]](papers/DGP+07.pdf) | [Download](http://www.cs.cornell.edu/bigreddata/cayuga/cayuga_code/cayuga_code.php) | developed by Cornell University | 
+| CEDR (Complex Event Detection and Response) | 2006 | StreamInsight | [[BCM06]](papers/BCM06.pdf) | ✘ | | 
 | [CEPiL](https://www.ipvs.uni-stuttgart.de/abteilungen/vs/forschung/projekte/CEP-in-the-Large) | 2010 | | [Papers](http://www2.informatik.uni-stuttgart.de/zdi/buecherei/NCSTRL_listings/projekt/CEPIL.html) | ✘ | research project by University of Stuttgart and GeorgiaTech | 
 | [Cisco Prime](http://www.cisco.com/c/en/us/td/docs/net_mgmt/prime/network/4-1/user/guide/CiscoPrimeNetwork41UserGuide/fault-theory.html) | ? | |  | ✘ | | 
 | [Cougar](http://www.cs.cornell.edu/bigreddata/cougar/index.php) | 2001 | | [[BGS01]](papers/), [[Yao03]](papers/) | ✘ | developed by Cornell University | 
@@ -29,9 +29,9 @@ An overview over Complex Event Processing Systems
 | [Hitachi uCosminexus Stream Data Platform](http://www.hitachi.com/products/it/software/prod/cosminexus/products/list/index.html) | 2010 | | [[HIA+10]](papers/) | ✘ |  | 
 | HybMig | 2007 | RTM Analyzer | [[YKPS07]](papers/) | ✘ | | 
 | [IBM InfoSphere Streams](http://www-03.ibm.com/software/products/en/ibm-streams) | 2015 | SPADE | [[BBF+10]](papers/) | ✘ | | 
-| Johka | 2009 | | [[BGHJ09]](papers/) | ✘ | | 
-| Lucent QTM | 1998 | | [[BBKS98b]](papers/) | ✘  | | 
-| MavStream | 2004 | | [[JC04]](papers/), [[jia07]](papers/),  [[JC06]](papers/),  [[JAC07]](papers/) | ✘ |  | developed by University of Texas at Arlington | 
+| Johka | 2009 | | [[BGHJ09]](/papers/) | ✘ | | 
+| Lucent QTM | 1998 | | [[BBKS98b]](/papers/) | ✘  | | 
+| MavStream | 2004 | | [[JC04]](/papers/JC04.pdf), [[JIA07]](/papers/JIA07.pdf),  [[JC06]](/papers/JC06.pdf),  [[JAC07]](/papers/JAC07.pdf) | ✘ |  | developed by University of Texas at Arlington | 
 | [Microsoft StreamInsight](https://technet.microsoft.com/de-de/library/ee362541(v=sql.111).aspx) | 2011 | | [[ACGS11]](papers/) | ✘ | | 
 | MillWheel | 2013 | | [[ABB+13]](papers/) | ✘ | developed and used by Google| 
 | [Naiad](http://research.microsoft.com/en-us/projects/naiad/) | 2013 | | [[MMI+13]](papers/) | [Download](https://github.com/MicrosoftResearch/Naiad) | developed by Microsoft | 
@@ -78,18 +78,17 @@ An overview over Complex Event Processing Systems
 | Stream MapReduce | 2011 | StreamMine3G | [[BMK+11]](papers/) | ✘ | | 
 | Stream Mill | 2008 | | [[TMZ08]](papers/) | ✘ | | 
 | StreamMine3G | 2014 | | [[MBF14]](papers/) | ✘ | | 
-| StreaMIT | 2002 | | [[GTK+02]](papers/), [[GTA06]](papers/), [[Gor10]](papers/) | ✘ |  | 
-| [Stylus](https://qconsf.com/sf2015/presentation/stylus-facebook-new-stream-processing-platform) | 2015 | | [[KBF15]](papers/) | ✘ | developed by and used at Facebook | 
+| StreaMIT | 2002 | | [[GTK+02]](papers/), [[GTA06]](papers/GTA06.pdf), [[Gor10]](papers/Gor10) | ✘ |  | 
+| [Stylus](https://qconsf.com/sf2015/presentation/stylus-facebook-new-stream-processing-platform) | 2015 | | [[KBF15]](/papers/KBF15.pdf) | ✘ | developed by and used at Facebook | 
 | Sybase CEP | ? | ? | | ✘ | based on Coral8 and Aleri | 
-| System S | 2008 | SPADE | [[Gei13]](papers/), [[GAW+08]]() | ✘ | | 
-| Tapestry | 1992 | | [[TGNO92]](papers/), [[Gei13]](papers/) | ✘ | | 
-| TelegraphCQ | 2003 | | [[CCD+03]](), [[KCC+03]](papers/) | ✘ | | 
+| System S | 2008 | SPADE | [[Gei13]](/papers/Gei13.pdf), [[GAW+08]](/papers/GAW+08.pdf) | ✘ | | 
+| Tapestry | 1992 | | [[TGNO92]](/papers/TGNO92.pdf), [[Gei13]](/papers/Gei13.pdf) | ✘ | | 
+| TelegraphCQ | 2003 | | [[CCD+03]](/papers/CCD+03.pdf), [[KCC+03]](papers/KCC+03.pdf) | ✘ | | 
 | [TIBCO BusinessEvents](http://www.tibco.com/products/event-processing/complex-event-processing/businessevents/) | ? | ? | ? | ✘ | | 
 | [TIBCO StreamBase](http://www.streambase.com/) | ? | | ? | ✘ |  | 
-| TimeStream | 2015 | | [[QHS+13]](papers/) | ✘ | based on StreamInsight | 
-| TinyDB | 2002 | | [[MFHH02]](papers/), [[MFHH03]]() | ✘ | | 
-| Tribeca | 1998 | | [[SH98]](papers/) | ✘ | | 
-| Truviso | 2015 | Cisco Prime | [[KFD+10]](papers/) | ✘ | | 
+| TimeStream | 2015 | | [[QHS+13]](/papers/QHS+13.pdf) | ✘ | based on StreamInsight | 
+| TinyDB | 2002 | | [[MFHH02]](/papers/MFHH02.pdf), [[MFHH03]]() | ✘ | | 
+| Tribeca | 1998 | | [[SH98]](/papers/SH98.pdf) | ✘ | | 
+| Truviso | 2015 | Cisco Prime | [[KFD+10]](/papers/KFD+10.pdf) | ✘ | | 
 | [WSO2 CEP Server](http://wso2.com/products/complex-event-processor/) | ? | | | ✘ | | 
-| ZStream | 2015 | | [[MM09]](papers/) | ✘ | | 
-
+| ZStream | 2015 | | [[MM09]](/papers/MM09.pdf) | ✘ | | 
