@@ -4,7 +4,7 @@ An overview over Complex Event Processing Systems
 | System | First Release | Nachfolger | Papers | Source Code |  Comment
 | ------ | ----- | ----------- | ------ | ------ | ----------- | ------
 | Aleri | | | | ✘ | acquired by Sybase in 2010 | 
-| Alert | 1991 | | [[SPAM91]](/papers/SPAM91.pdf), [[SPAM91]](papers/SPAM91.pdf) | ✘ | | 
+| Alert | 1991 | | [[SPAM91]](/papers/SPAM91.PDF), [[SPAM91]](papers/SPAM91.PDF) | ✘ | | 
 | [Aurora](http://cs.brown.edu/research/aurora/) | 2002 | | [[BBC+04]](papers/BBC+04.pdf), [[CCC+02]](/papers/CCC+02.pdf), [[ZDC03]](/papers/ZDC03.pdf) |  [Download](http://cs.brown.edu/research/aurora/aurora_1_2.tar.gz) | developed by Brandeis University, Brown University, and MIT | 
 | [Medusa](http://nsl.cs.usc.edu/Projects/Medusa) | 2003 | | [[ZDC03]](papers/ZDC03.pdf) | [Download](https://github.com/USC-NSL/Medusa) | | 
 | [Borealis](http://cs.brown.edu/research/borealis/public/) | 2005 | | [[AAB+05]](papers/AAB+05.pdf) | [Download](http://cs.brown.edu/research/borealis/public/#software) | developed by Brandeis University, Brown University, and MIT  | 
