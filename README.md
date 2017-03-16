@@ -1,8 +1,8 @@
 # Complex-Event-Processing-Systems
 An overview over Complex Event Processing Systems  
 
-| System | First Release | Nachfolger | Papers | Source Code |  Comment
-| ------ | ----- | ----------- | ------ | ------ | ----------- | ------
+| System | First Release | Successor | Papers | Source Code |  Comment |
+| ------ | ------------- | --------- | ------ | ----------- | -------- | 
 | Aleri | | | | ✘ | acquired by Sybase in 2010 | 
 | Alert | 1991 | | [[SPAM91]](papers/SPAM91.pdf) | ✘ | | 
 | [Aurora](http://cs.brown.edu/research/aurora/) | 2002 | | [[BBC+04]](papers/BBC+04.pdf), [[CCC+02]](papers/CCC+02.pdf), [[ZDC03]](papers/ZDC03.pdf) |  [Download](http://cs.brown.edu/research/aurora/aurora_1_2.tar.gz) | developed by Brandeis University, Brown University, and MIT | 
@@ -34,7 +34,7 @@ An overview over Complex Event Processing Systems
 | MavStream | 2004 | | [[JC04]](papers/JC04.pdf), [[JIA07]](papers/JIA07.pdf),  [[JC06]](papers/JC06.pdf),  [[JAC07]](papers/JAC07.pdf) | ✘ |  | developed by University of Texas at Arlington | 
 | [Microsoft StreamInsight](https://technet.microsoft.com/de-de/library/ee362541(v=sql.111).aspx) | 2011 | | [[ACGS11]](papers/ACGS11.pdf) | ✘ | | 
 | MillWheel | 2013 | | [[ABB+13]](papers/) | ✘ | developed and used by Google| 
-| [Naiad](http://research.microsoft.com/en-us/projects/naiad/) | 2013 | | [[MMI+13]](papers/MMI+13.pdf) | [Download](https://github.com/MicrosoftResearch/Naiad) | developed by Microsoft | 
+| [Naiad](http://research.microsoft.com/en-us/projects/naiad/) | 2013 | | [[MMI+13]](papers/MMI+13.pdf) | [Download](https://github.com/MicrosoftResearch/Naiad) | developed by Microsoft |
 | [Nephele Streaming](https://github.com/bjoernlohrmann/nephele-streaming) | 2012 | | [[LWK14]](papers/LWK14.pdf) | [Download](https://github.com/bjoernlohrmann/nephele-streaming) | | 
 | NiagaraCQ | 2000 | | [[CDTW00]](papers/CDTW00.pdf), [[NDM+01]](papers/NDM+01.pdf) | ✘ | | 
 | Nile | 2004 | Nile-PDT | [[HMA+04]](papers/HMA+04.pdf) | ✘ | | 
