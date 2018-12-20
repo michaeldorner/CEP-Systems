@@ -1,5 +1,5 @@
 # Complex-Event-Processing-Systems
-An overview over Complex Event Processing Systems  
+An overview of Complex Event Processing Systems (CEP)
 
 | System | First Release | Successor | Papers | Source Code |  Comment |
 | ------ | ------------- | --------- | ------ | ----------- | -------- | 
