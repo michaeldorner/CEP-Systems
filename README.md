@@ -9,7 +9,7 @@ An overview of Complex Event Processing Systems (CEP)
 | [Medusa](http://nsl.cs.usc.edu/Projects/Medusa) | 2003 | | [[ZDC03]](papers/ZDC03.pdf) | [Download](https://github.com/USC-NSL/Medusa) | | 
 | [Borealis](http://cs.brown.edu/research/borealis/public/) | 2005 | | [[AAB+05]](papers/AAB+05.pdf) | [Download](http://cs.brown.edu/research/borealis/public/#software) | developed by Brandeis University, Brown University, and MIT  | 
 | [CAPE (Constraint-exploiting Adaptive Processing Engine)](http://davis.wpi.edu/dsrg/PROJECTS/CAPE/index.html) | 2004 | D-CAPE | [[RDS+04]](papers/RDS+04.pdf), [[WAL+07]](papers/WAL+07.pdf) | ✘, although anounced in 2009 | developed by Worcester Polytechnic Institute | 
-| [Cayuga](http://www.cs.cornell.edu/bigreddata/cayuga/) | 2007 | Johka | [[DGP+07]](papers/DGP+07.pdf) | [Download](http://www.cs.cornell.edu/bigreddata/cayuga/cayuga_code/cayuga_code.php) | developed by Cornell University | 
+| [Cayuga](https://sourceforge.net/projects/cayuga/) | 2007 | Johka | [[DGP+07]](papers/DGP+07.pdf) | [Download](https://sourceforge.net/projects/cayuga/) | developed by Cornell University | 
 | CEDR (Complex Event Detection and Response) | 2006 | StreamInsight | [[BCM06]](papers/BCM06.pdf) | ✘ | | 
 | [CEPiL](https://www.ipvs.uni-stuttgart.de/abteilungen/vs/forschung/projekte/CEP-in-the-Large) | 2010 | | [Papers](http://www2.informatik.uni-stuttgart.de/zdi/buecherei/NCSTRL_listings/projekt/CEPIL.html) | ✘ | research project by University of Stuttgart and GeorgiaTech | 
 | [Cisco Prime](http://www.cisco.com/c/en/us/td/docs/net_mgmt/prime/network/4-1/user/guide/CiscoPrimeNetwork41UserGuide/fault-theory.html) | ? | |  | ✘ | | 
